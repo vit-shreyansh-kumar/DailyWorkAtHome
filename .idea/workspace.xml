@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ad31294-4538-4bc7-be4b-4b317e2d1d01" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LinkedList/reverse-tail-end-approach.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LinkedList/reverse.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPatterns/Behavioural/IteratorPattern.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPatterns/Behavioural/StrategyPattern.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactoryPattern.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPatterns/Creational/BuilderPattern.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPatterns/Creational/FactoryPattern.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPatterns/Creational/ObjectPoolPattern.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPatterns/Creational/PrototypePattern.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPatterns/Creational/SingletonPattern.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPatterns/Creational/about" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPatterns/Structural/AdapterPattern.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPatterns/Structural/BridgePattern.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPatterns/Structural/ProxyPattern.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Multithreading/getprocessid.py" afterPath="$PROJECT_DIR$/Multithreading/getprocessid.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -56,105 +65,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="generate.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Random/generate.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="basic-allocation.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MemoryManagement/basic-allocation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="31" column="24" lean-forward="false" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Shallow vs Deep Copy.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MemoryManagement/Shallow vs Deep Copy.py">
+      <file leaf-file-name="AbstractFactoryPattern.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactoryPattern.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="47" lean-forward="false" selection-start-line="0" selection-start-column="47" selection-end-line="0" selection-end-column="47" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="customgarbagecollection.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GarbageCollection/customgarbagecollection.py">
+      <file leaf-file-name="BuilderPattern.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DesignPatterns/Creational/BuilderPattern.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-              <folding>
-                <element signature="e#55#64#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="multi-processing.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Multithreading/multi-processing.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="getprocessid.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Multithreading/getprocessid.py">
+      <file leaf-file-name="PrototypePattern.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DesignPatterns/Creational/PrototypePattern.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding>
-                <element signature="e#39#74#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reverse.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LinkedList/reverse.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="45" column="28" lean-forward="true" selection-start-line="41" selection-start-column="4" selection-end-line="45" selection-end-column="28" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reverse-tail-end-approach.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LinkedList/reverse-tail-end-approach.py">
+      <file leaf-file-name="ObjectPoolPattern.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DesignPatterns/Creational/ObjectPoolPattern.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="73" column="51" lean-forward="false" selection-start-line="73" selection-start-column="51" selection-end-line="73" selection-end-column="51" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="python-compiled-files" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python-compiled-files">
+      <file leaf-file-name="about" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DesignPatterns/Creational/about">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="102" lean-forward="false" selection-start-line="10" selection-start-column="102" selection-end-line="10" selection-end-column="102" />
+            <state relative-caret-position="18">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user-defined-exceptions.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CustomExceptions/user-defined-exceptions.py">
+      <file leaf-file-name="IteratorPattern.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DesignPatterns/Behavioural/IteratorPattern.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StrategyPattern.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DesignPatterns/Behavioural/StrategyPattern.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdapterPattern.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DesignPatterns/Structural/AdapterPattern.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BridgePattern.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DesignPatterns/Structural/BridgePattern.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProxyPattern.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DesignPatterns/Structural/ProxyPattern.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -175,18 +180,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/heapsort.py" />
-        <option value="$PROJECT_DIR$/DiameterOfTree.py" />
-        <option value="$PROJECT_DIR$/Multiprocessing/processexitstatus.py" />
-        <option value="$PROJECT_DIR$/Multiprocessing/basic.py" />
-        <option value="$PROJECT_DIR$/bits/lengths.py" />
-        <option value="$PROJECT_DIR$/test1.py" />
-        <option value="$PROJECT_DIR$/SecondLargest.py" />
-        <option value="$PROJECT_DIR$/Multiprocessing/tsetmp.py" />
-        <option value="$PROJECT_DIR$/random/generate.py" />
-        <option value="$PROJECT_DIR$/Inheritance/Multiple.py" />
-        <option value="$PROJECT_DIR$/Inheritance/Factory.py" />
         <option value="$PROJECT_DIR$/OOPS/property.py" />
         <option value="$PROJECT_DIR$/Fibonacci_generators.py" />
         <option value="$PROJECT_DIR$/test2.py" />
@@ -226,6 +219,18 @@
         <option value="$PROJECT_DIR$/Multithreading/getprocessid.py" />
         <option value="$PROJECT_DIR$/LinkedList/reverse.py" />
         <option value="$PROJECT_DIR$/LinkedList/reverse-tail-end-approach.py" />
+        <option value="$PROJECT_DIR$/DesignPatterns/Creational/SingletonPattern.py" />
+        <option value="$PROJECT_DIR$/DesignPatterns/Creational/FactoryPattern.py" />
+        <option value="$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactoryPattern.py" />
+        <option value="$PROJECT_DIR$/DesignPatterns/Creational/BuilderPattern.py" />
+        <option value="$PROJECT_DIR$/DesignPatterns/Creational/PrototypePattern.py" />
+        <option value="$PROJECT_DIR$/DesignPatterns/Creational/ObjectPoolPattern.py" />
+        <option value="$PROJECT_DIR$/DesignPatterns/Creational/about" />
+        <option value="$PROJECT_DIR$/DesignPatterns/Behavioural/IteratorPattern.py" />
+        <option value="$PROJECT_DIR$/DesignPatterns/Behavioural/StrategyPattern.py" />
+        <option value="$PROJECT_DIR$/DesignPatterns/Structural/AdapterPattern.py" />
+        <option value="$PROJECT_DIR$/DesignPatterns/Structural/BridgePattern.py" />
+        <option value="$PROJECT_DIR$/DesignPatterns/Structural/ProxyPattern.py" />
       </list>
     </option>
   </component>
@@ -263,6 +268,17 @@
             <path>
               <item name="DailyWorkAtHome" type="b2602c69:ProjectViewProjectNode" />
               <item name="DailyWorkAtHome" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DailyWorkAtHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DailyWorkAtHome" type="462c0819:PsiDirectoryNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DailyWorkAtHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DailyWorkAtHome" type="462c0819:PsiDirectoryNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="Structural" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DailyWorkAtHome" type="b2602c69:ProjectViewProjectNode" />
@@ -457,61 +473,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/convert0to5.py" />
-    <entry file="file://$PROJECT_DIR$/DiameterOfTree.py" />
-    <entry file="file:///usr/lib/python2.7/collections.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9900">
-          <caret line="551" column="6" lean-forward="false" selection-start-line="551" selection-start-column="6" selection-end-line="551" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test-current.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonDict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Trie.py" />
-    <entry file="file://$PROJECT_DIR$/random/generate.py" />
-    <entry file="file://$PROJECT_DIR$/heapsort.py" />
-    <entry file="file://$PROJECT_DIR$/Loop-in-LinkedList.py" />
-    <entry file="file://$PROJECT_DIR$/Multiprocessing/basic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Multiprocessing/parentprocess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="40" column="58" lean-forward="false" selection-start-line="40" selection-start-column="58" selection-end-line="40" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Multiprocessing/pool.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python2.7/multiprocessing/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3996">
-          <caret line="226" column="4" lean-forward="false" selection-start-line="226" selection-start-column="4" selection-end-line="226" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Multiprocessing/mp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -722,18 +683,122 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList/reverse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="45" column="28" lean-forward="true" selection-start-line="41" selection-start-column="4" selection-end-line="45" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LinkedList/reverse-tail-end-approach.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="73" column="51" lean-forward="false" selection-start-line="73" selection-start-column="51" selection-end-line="73" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/reverse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/MergeSortedLinkedList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatterns/Creational/SingletonPattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatterns/Creational/FactoryPattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactoryPattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatterns/Creational/BuilderPattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatterns/Creational/PrototypePattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatterns/Creational/ObjectPoolPattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatterns/Creational/about">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatterns/Behavioural/IteratorPattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatterns/Behavioural/StrategyPattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatterns/Structural/AdapterPattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatterns/Structural/BridgePattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatterns/Structural/ProxyPattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
