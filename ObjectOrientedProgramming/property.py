@@ -11,9 +11,9 @@ class Employee(object):
         return '{} {}'.format(self.fname,self.lname)
 
 
-emp1 = Employee('shreyansh','sinha')
+emp1 = Employee('shreyansh','kumar')
 
-emp1.fname = "sushant"
+emp1.fname = "xyz"
 
 print(emp1.fname)
 print(emp1.lname)

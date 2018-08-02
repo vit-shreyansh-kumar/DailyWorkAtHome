@@ -40,10 +40,11 @@ if __name__=="__main__":
     # print(obj.myname)
     # obj.myname = "Sinha"
 
-    obj = Person("Shreyansh","Sinha")
+    obj = Person("Shreyansh","Kumar")
     print(obj.fname)
     print(obj.lname)
     print("************************")
-    obj.full_name = "Sushant Sinha"
+    obj.full_name = "Mr Kumar"
     print(obj.fname)
     print(obj.lname)
+    print(obj.full_name)

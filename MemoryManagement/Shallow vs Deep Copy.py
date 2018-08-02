@@ -1,0 +1,1 @@
+__about__ = """ Shallow and deep copy example. """
