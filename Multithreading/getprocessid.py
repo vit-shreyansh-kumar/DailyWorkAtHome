@@ -1,8 +1,6 @@
 __about__ = """ Get process ids. """
 
 
-
-
 from multiprocessing import Process
 import os
 
