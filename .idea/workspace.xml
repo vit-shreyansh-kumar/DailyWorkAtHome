@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ad31294-4538-4bc7-be4b-4b317e2d1d01" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Analytics/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorators/decorate.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MemoryManagement/Shallow vs Deep Copy.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MemoryManagement/basic-allocation.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/classmethod-vs-staticmethod.py" afterPath="$PROJECT_DIR$/ObjectOrientedProgramming/classmethod-vs-staticmethod.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/flatenthematrix.py" afterPath="$PROJECT_DIR$/Analytics/flatenthematrix.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GarbageCollection/customgarbagecollection.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ObjectOrientedProgramming/property.py" afterPath="$PROJECT_DIR$/ObjectOrientedProgramming/property.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ObjectOrientedProgramming/property_example.py" afterPath="$PROJECT_DIR$/ObjectOrientedProgramming/property_example.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,6 +35,7 @@
     <SUITE FILE_PATH="coverage/Algos$PythonDict.coverage" NAME="PythonDict Coverage Results" MODIFIED="1529326185336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algos$Fibonacci.coverage" NAME="Fibonacci Coverage Results" MODIFIED="1529483711511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic Programming" />
     <SUITE FILE_PATH="coverage/Algos$Fibonacci_generators.coverage" NAME="Fibonacci_generators Coverage Results" MODIFIED="1528037307541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DailyWorkAtHome$customgarbagecollection.coverage" NAME="customgarbagecollection Coverage Results" MODIFIED="1533181105339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GarbageCollection" />
     <SUITE FILE_PATH="coverage/Algos$generate.coverage" NAME="generate Coverage Results" MODIFIED="1527076517288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/random" />
     <SUITE FILE_PATH="coverage/Algos$processexitstatus.coverage" NAME="processexitstatus Coverage Results" MODIFIED="1526470456035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Multiprocessing" />
     <SUITE FILE_PATH="coverage/Algos$convert0to5.coverage" NAME="convert0to5 Coverage Results" MODIFIED="1528262599990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -101,18 +93,30 @@
         <entry file="file://$PROJECT_DIR$/MemoryManagement/basic-allocation.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+              <caret line="31" column="24" lean-forward="false" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Shallow vs Deep Copy.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Shallow vs Deep Copy.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MemoryManagement/Shallow vs Deep Copy.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="47" lean-forward="false" selection-start-line="0" selection-start-column="47" selection-end-line="0" selection-end-column="47" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="customgarbagecollection.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GarbageCollection/customgarbagecollection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+              <folding>
+                <element signature="e#55#64#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -142,16 +146,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="filter.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/filter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -217,6 +211,7 @@
         <option value="$PROJECT_DIR$/flatenthematrix.py" />
         <option value="$PROJECT_DIR$/MemoryManagement/basic-allocation.py" />
         <option value="$PROJECT_DIR$/MemoryManagement/Shallow vs Deep Copy.py" />
+        <option value="$PROJECT_DIR$/GarbageCollection/customgarbagecollection.py" />
       </list>
     </option>
   </component>
@@ -254,21 +249,6 @@
               <item name="DailyWorkAtHome" type="b2602c69:ProjectViewProjectNode" />
               <item name="DailyWorkAtHome" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DailyWorkAtHome" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DailyWorkAtHome" type="462c0819:PsiDirectoryNode" />
-              <item name="MemoryManagement" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DailyWorkAtHome" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DailyWorkAtHome" type="462c0819:PsiDirectoryNode" />
-              <item name="ObjectOrientedProgramming" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DailyWorkAtHome" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DailyWorkAtHome" type="462c0819:PsiDirectoryNode" />
-              <item name="Random" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -301,7 +281,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.basic-allocation">
+  <component name="RunManager" selected="Python.customgarbagecollection">
     <configuration name="basic-allocation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -316,6 +296,24 @@
       <module name="DailyWorkAtHome" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MemoryManagement/basic-allocation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="customgarbagecollection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GarbageCollection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DailyWorkAtHome" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GarbageCollection/customgarbagecollection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -356,24 +354,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="processpool" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Multiprocessing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Algos" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multiprocessing/processpool.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <configuration name="property_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -393,19 +373,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.processpool" />
-      <item index="1" class="java.lang.String" itemvalue="Python.filter" />
-      <item index="2" class="java.lang.String" itemvalue="Python.decorate" />
-      <item index="3" class="java.lang.String" itemvalue="Python.property_example" />
-      <item index="4" class="java.lang.String" itemvalue="Python.basic-allocation" />
+      <item index="0" class="java.lang.String" itemvalue="Python.filter" />
+      <item index="1" class="java.lang.String" itemvalue="Python.decorate" />
+      <item index="2" class="java.lang.String" itemvalue="Python.property_example" />
+      <item index="3" class="java.lang.String" itemvalue="Python.basic-allocation" />
+      <item index="4" class="java.lang.String" itemvalue="Python.customgarbagecollection" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.basic-allocation" />
-        <item index="1" class="java.lang.String" itemvalue="Python.property_example" />
-        <item index="2" class="java.lang.String" itemvalue="Python.decorate" />
-        <item index="3" class="java.lang.String" itemvalue="Python.filter" />
-        <item index="4" class="java.lang.String" itemvalue="Python.processpool" />
+        <item index="0" class="java.lang.String" itemvalue="Python.customgarbagecollection" />
+        <item index="1" class="java.lang.String" itemvalue="Python.basic-allocation" />
+        <item index="2" class="java.lang.String" itemvalue="Python.property_example" />
+        <item index="3" class="java.lang.String" itemvalue="Python.decorate" />
+        <item index="4" class="java.lang.String" itemvalue="Python.filter" />
       </list>
     </recent_temporary>
   </component>
@@ -458,13 +438,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/lib/python3.5/heapq.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2646">
-          <caret line="147" column="28" lean-forward="false" selection-start-line="147" selection-start-column="28" selection-end-line="147" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ODC.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
@@ -712,7 +685,7 @@
     <entry file="file://$PROJECT_DIR$/MemoryManagement/basic-allocation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+          <caret line="31" column="24" lean-forward="false" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -722,6 +695,16 @@
         <state relative-caret-position="0">
           <caret line="0" column="47" lean-forward="false" selection-start-line="0" selection-start-column="47" selection-end-line="0" selection-end-column="47" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GarbageCollection/customgarbagecollection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding>
+            <element signature="e#55#64#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
