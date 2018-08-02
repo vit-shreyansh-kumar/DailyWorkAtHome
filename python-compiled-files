@@ -1,0 +1,11 @@
+Python is an interpreted language but it compiles the code too so, it cannot be a purely interpreted language.
+
+Python uses caches and it caches the compiled module in the .pyc files.
+
+CPython compiles the python code to the "byte code" and for the preformance it caches the
+compiled code to the pyc files. It also caches when it finds change in the source code.
+This, feature makes loading much faster because the compilation phase can be bypassed.
+
+
+In python3, python import mechinary is executed to write and search for the byte code cache files,
+in a single directory inside every python package directory. This directory is called as __pycache__ .
