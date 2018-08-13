@@ -16,4 +16,3 @@ if __name__ == '__main__':
         p = multiprocessing.Process(target=worker, args = (i,))
         # jobs.append(p)
         p.start()
-
