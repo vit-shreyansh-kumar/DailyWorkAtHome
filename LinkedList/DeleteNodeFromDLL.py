@@ -23,16 +23,30 @@ class DoublyLinkedList:
             self.curr = self.curr.next
             
     def deletenode(self,value= None):
+            myreturn = False
             temp = self.head
             while temp:
                 if temp.data == value:
                     temp.prev.next = temp.next
-                    return True
+                    myreturn = True
+                    break
                 temp = temp.next
+            return myreturn
             
-            return False
-            
-            
+    def insertafter(self,value,newval):
+            myreturn = False
+            newnode = Node(newval)
+            temp = self.head
+            while temp:
+                if temp.data == value:
+                    newnode.next = temp.next
+                    newnode.prev = temp
+                    temp.next = newnode
+                    myreturn = True
+                    break
+                temp = temp.next
+            return myreturn
+        
     def printdata(self):
         temp = self.head
         while temp:
@@ -54,5 +68,7 @@ if __name__ == "__main__":
     dd.insert(14)
     
     dd.deletenode(10)
-    
+    dd.deletenode(9)
+    dd.insertafter(12,18)
     dd.printdata()
+  
